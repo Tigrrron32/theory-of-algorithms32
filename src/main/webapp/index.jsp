@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>My TA labs</h1>
-        <p>Created by Julia Lehoida IP-12</p>
+        <p>created by Julia Lehoida IP-12</p>
 
         <form action="lab1.jsp">
             
