@@ -24,6 +24,7 @@ public class Lab2Tests {
     @Test
     void test1() {
         
+        
         assertEquals(5, equationSample.solve(2));
         assertEquals(-5, equationSample.solve(-2));
         assertEquals(2, equationSample.solve(5));
@@ -32,6 +33,7 @@ public class Lab2Tests {
     }
 @Test
     void test2() {
+        
         
         assertEquals(5, equationSample.solve(2));
         assertEquals(-5, equationSample.solve(-2));
